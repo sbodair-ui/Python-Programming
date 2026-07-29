@@ -1,2 +1,2 @@
 # Python-Programming
-Python examples, assignments, and projects for Computer Science students.
+Python programming fundamentals, object-oriented programming, automation, and real-world projects.
