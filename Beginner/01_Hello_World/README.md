@@ -40,7 +40,7 @@ Welcome to Python Programming!
 Open a terminal in this folder and run:
 
 ```bash
-python main.py
+python starter/main.py
 ```
 
 ---
