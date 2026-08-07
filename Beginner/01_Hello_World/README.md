@@ -23,7 +23,20 @@ Create a program that displays the following message:
 Hello, World!
 Welcome to Python Programming!
 ```
+## 📁 Project Structure
 
+```
+01_Hello_World/
+├── assets/
+├── README.md
+├── starter/
+│   └── main.py
+└── solution/
+    └── main.py
+```
+
+- Work inside **starter/main.py**.
+- If you get stuck, compare your work with **solution/main.py** after you've tried the challenge.
 ---
 
 ## 📝 Instructions
