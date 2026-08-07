@@ -28,11 +28,11 @@ Welcome to Python Programming!
 
 ## 📝 Instructions
 
-1. Open `main.py`.
-2. Type the code needed to display the message above.
+1. Open `starter/main.py`.
+2. Complete the challenge.
 3. Save the file.
-4. Run the program.
-
+4. Open a terminal in the `starter` folder.
+5. Run the program.
 ---
 
 ## ▶️ How to Run
