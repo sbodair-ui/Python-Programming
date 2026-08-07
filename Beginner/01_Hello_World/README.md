@@ -1,43 +1,100 @@
-# Hello World
+# 🐍 Hello, World!
 
-## Overview
+Your first Python program! In this lesson, you'll learn how to write and run a simple Python script.
 
-The Hello World project is the traditional first program for learning a new programming language. It introduces the basic structure of a Python program and demonstrates how to display text in the console.
+---
 
-## Learning Objectives
+## 📚 What You'll Learn
 
-- Understand Python syntax
+By the end of this lesson, you will be able to:
+
+- Write your first Python program
 - Use the `print()` function
-- Run a Python program
-- Create your first Python script
+- Run a Python file from the terminal
+- Understand basic Python syntax
 
-## Concepts Covered
+---
 
-- Python syntax
-- Comments
-- print()
+## 🎯 Project Goal
 
-## How to Run
+Create a program that displays the following message:
+
+```text
+Hello, World!
+Welcome to Python Programming!
+```
+
+---
+
+## 📝 Instructions
+
+1. Open `main.py`.
+2. Type the code needed to display the message above.
+3. Save the file.
+4. Run the program.
+
+---
+
+## ▶️ How to Run
+
+Open a terminal in this folder and run:
 
 ```bash
 python main.py
 ```
 
-## Example Output
+---
 
-```
+## ✅ Expected Output
+
+```text
 Hello, World!
 Welcome to Python Programming!
 ```
 
-## Future Improvements
+---
 
-- Print multiple messages
-- Accept user input
-- Format output using f-strings
+## 💻 Example Solution
+
+```python
+print("Hello, World!")
+print("Welcome to Python Programming!")
+```
+
+---
+
+## 🧠 Challenge
+
+After your program works, try these challenges:
+
+- Print your name.
+- Print your favorite programming language.
+- Print three different lines of text.
+
+Example:
+
+```text
+Hello, World!
+My name is Stephen.
+I am learning Python!
+```
+
+---
+
+## 📖 Concepts Covered
+
+- Python syntax
+- `print()` function
+- Comments
+- Running Python programs
+
+---
+
+## 🚀 What's Next?
+
+Continue to **02_Variables** to learn how to store information in variables.
 
 ## License
 
 MIT License
 
-MIT License
